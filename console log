@@ -1,0 +1,8 @@
+console.log("Oi");
+console.log("Oia");
+
+function retorno () {
+return null; //null
+}
+
+console.log("Hii");
