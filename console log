@@ -2,5 +2,5 @@ console.log("Oi");
 console.log("Oia");
 
 function retorno () {
-return null;
+return null; //null
 }
