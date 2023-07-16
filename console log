@@ -1,2 +1,6 @@
 console.log("Oi");
 console.log("Oia");
+
+function retorno () {
+return null;
+}
